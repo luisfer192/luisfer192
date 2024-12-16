@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Fernando Muñoz Lombana
 
-<!--
-**luisfer192/luisfer192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📄 Sobre mí
+Soy un **tecnólogo en sistemas** con experiencia en áreas técnicas, incluyendo **cámaras de seguridad** y **telefonía móvil**. Estoy comprometido con la tecnología y las soluciones prácticas, siempre en busca de seguir aprendiendo y mejorando.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Perfil
+- **Nombre:** Luis Fernando Muñoz Lombana  
+- **Edad:** 35 años  
+- **Ubicación:** Bogotá, Colombia 🇨🇴  
+- **Correo electrónico:** [ferchito14063@gmail.com](mailto:ferchito14063@gmail.com)  
+
+---
+
+### 💼 Habilidades Técnicas
+- **Sistemas informáticos**  
+- **Instalación y mantenimiento de cámaras de seguridad**  
+- **Reparación y soporte técnico en telefonía móvil**  
+- **Soporte y mantenimiento general de hardware/software**
+
+---
+
+### 🚀 Objetivos
+Me enfoco en proyectos donde pueda aportar mis habilidades técnicas y mi conocimiento en sistemas, además de brindar soluciones efectivas y prácticas. ¡Siempre dispuesto a nuevos desafíos!
+
+---
+
+### 📫 Contáctame
+Si deseas contactarme para proyectos, colaboraciones o consultas, aquí tienes mi información:  
+- **Correo electrónico:** [ferchito14063@gmail.com](mailto:ferchito14063@gmail.com)  
+- **Teléfono:** +57 315 7924689  
+
+¡Gracias por visitar mi perfil! 🚀  
